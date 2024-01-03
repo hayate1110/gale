@@ -1,0 +1,28 @@
+baseURL = "https://ie.u-ryukyu.ac.jp/e225719"
+languageCode = "ja"
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+
+title = "Gale website"
+copyright = "Copy, _right?_ :thinking_face:"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[params.author]
+  name = "Gale"
+  headline = "全日本大学ストリートダンス沖縄連盟"
+  image = "gale.jpeg"  # path relative to static directory
+
+  links = [
+    { link = { href = "https://docs.google.com/forms/d/1wCswNVZAAOfwD4xQBUe9XiY5I3HcdEPrT75Z69xO1XI/viewform?pli=1&pli=1&edit_requested=true", text = "Simon WS エントリーフォーム" } },
+    { link = { href = "https://player-license.jusdl.or.jp/players/sign_in", text = "Jusdl Sign in" } },
+    { instagram = { href = "https://instagram.com/jusdl_okinawa.gale", text = "instagram" } },
+    { youtube = { href = "https://www.youtube.com/@jusdl_gale", text = "youtube" } },
+    { email = { href = "e225719@ie.u-ryukyu.ac.jp", text = "email" } },
+  ]
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.86.1"
