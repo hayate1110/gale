@@ -19,7 +19,7 @@ disableKinds = ["taxonomy", "term"]
     { link = { href = "https://player-license.jusdl.or.jp/players/sign_in", text = "Jusdl Sign in" } },
     { instagram = { href = "https://instagram.com/jusdl_okinawa.gale", text = "instagram" } },
     { youtube = { href = "https://www.youtube.com/@jusdl_gale", text = "youtube" } },
-    { email = { href = "e225719@ie.u-ryukyu.ac.jp", text = "email" } },
+    { email = { href = "mailto:e225719@ie.u-ryukyu.ac.jp?subject=Question", text = "email" } },
   ]
 
 [module]
