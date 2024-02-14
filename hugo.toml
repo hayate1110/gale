@@ -15,7 +15,6 @@ disableKinds = ["taxonomy", "term"]
   image = "gale.jpeg"  # path relative to static directory
 
   links = [
-    { link = { href = "https://docs.google.com/forms/d/e/1FAIpQLSevQkHeW65uBYNWIJgaNpAp6qALJ53UEFvq3SlDNawGPK1Tcg/viewform", text = "第3回 Gale道場 エントリーフォーム" } },
     { link = { href = "https://player-license.jusdl.or.jp/players/sign_in", text = "Jusdl Sign in" } },
     { instagram = { href = "https://instagram.com/jusdl_okinawa.gale", text = "instagram" } },
     { youtube = { href = "https://www.youtube.com/@jusdl_gale", text = "youtube" } },
