@@ -1,3 +1,6 @@
+# gale website
+全日本大学ストリートダンス沖縄連盟Galeのウェブサイト
+
 # Lynx
 
 Lynx is designed to be a simple links page powered by [Hugo](https://gohugo.io). It's built using Tailwind CSS and inspired by services like LinkTree.
